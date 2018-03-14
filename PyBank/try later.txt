@@ -1,0 +1,8 @@
+# Create a list with the 2 file options
+ds = ['data_set_1.csv', 'data_set_2.csv']
+
+# Create a prompt to ask user which file to analyze
+print("Hello, please select a dataset from the list below:")
+prompt = input(ds[0], ds[1])
+
+if prompt = 
